@@ -42,4 +42,21 @@ B: Enter your Name
 U: Gowtham
 
 c. Bot asks and gets age from user. Age is a drop down. 18-40.
+So overall after entering age, it looks 
+
+B: Hello, Welcome to student info system!
+U: Got it!
+B: Enter your Name
+U: Gowtham
+B: Enter your Age
+U: 27
+
+
+d. Bot then says "Thank you. In 5 seconds, bot will exit" as the last line below 27. It counts down , 5..4...3..2...1 and then it takes user to page 3
+
+
+3. Page 3 says - 
+
+Your name Gowtham aged 27 has been added to student system. You may now exit.
+
 
