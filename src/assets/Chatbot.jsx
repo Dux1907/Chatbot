@@ -43,7 +43,9 @@ const Chatbot = () => {
     },
     {
       id: "2",
-      options: [{ value: "Got it", label: "Got it", trigger: "3" }],
+      options: [{
+        value: "t it", label:'Got it', trigger: "3"
+      }],
     },
     {
       id: "3",

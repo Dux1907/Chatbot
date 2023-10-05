@@ -5,7 +5,7 @@ const Page1 = () => {
         <div className="container-fluid">
             <div className="row min-vh-100 justify-content-center align-content-center text-center bg-dark text-white">
                 <div className="col-8">
-                <h1 style = {{fontSize:'48px'}}>Enter into Student Info System
+                <h1 style = {{fontSize:'48px'}}>Welcome to Student Info System
             </h1>
                     <button className='btn btn-primary mt-3'>
                     <NavLink to = '/chatbot'>Enroll Now</NavLink></button>

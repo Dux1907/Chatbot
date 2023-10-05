@@ -26,7 +26,6 @@ const Slice = createSlice({
    //   console.log(payload);
       state.data.push(payload);
       state.current = payload;
-      
     });
   },
 });
